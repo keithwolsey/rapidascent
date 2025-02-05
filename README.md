@@ -1,1 +1,1 @@
-# RapidAscent
+Demo repository for class
